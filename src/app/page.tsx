@@ -1,12 +1,9 @@
-"use client"
+
 import CreateTask from "./components/createTask/createTask"
 import Todolist from "./components/todoList/todolist"
 import Filtres from "./components/filtres/filtres"
 
-
 export default function Home() {
-
-
 
   return (
     <main className="max-w-4xl mx-auto mt-4 ">

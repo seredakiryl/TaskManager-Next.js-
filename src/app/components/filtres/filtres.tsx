@@ -5,7 +5,6 @@ import { useAppDispatch, useAppSelector } from "@/redux/store"
 const Filtres = () => {
 
     const filter = useAppSelector(state => state.todoList.filter)
-console.log(filter)
     const dispatch = useAppDispatch()
 
     const changeFilterHandler = (filter: string) => {
