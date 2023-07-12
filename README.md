@@ -1,1 +1,1 @@
-# TaskManager-Next.js-
+# 1)Запуск приложения npm run dev
